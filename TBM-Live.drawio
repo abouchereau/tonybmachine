@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T19:09:55.582Z" agent="5.0 (X11)" etag="eY6D7qxve2TPkea_oONR" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-09T19:21:20.796Z" agent="5.0 (X11)" etag="SLyJ_IsLpCnLTxYbtnNx" version="15.5.0" type="github">
   <diagram id="wUzewB1sdcUzTNdC75Po" name="Page-1">
     <mxGraphModel dx="942" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,49 @@
         <mxCell id="-iUX2kpL5e2QwpAdBYs0-3" value="" style="shape=mxgraph.signs.tech.radio;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="512" width="99" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="-iUX2kpL5e2QwpAdBYs0-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="-iUX2kpL5e2QwpAdBYs0-4" value="batterie intégrée" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="780" y="520" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUX2kpL5e2QwpAdBYs0-6" value="" style="shape=mxgraph.signs.nature.neptune;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="570" y="512" width="53.26" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUX2kpL5e2QwpAdBYs0-7" value="Mini-mixeur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="556.63" y="482" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUX2kpL5e2QwpAdBYs0-8" value="&lt;div&gt;Enceinte&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUX2kpL5e2QwpAdBYs0-12" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="542" as="sourcePoint" />
+            <mxPoint x="700" y="542" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="543" />
+              <mxPoint x="630" y="543" />
+              <mxPoint x="630" y="572" />
+              <mxPoint x="690" y="572" />
+              <mxPoint x="690" y="542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-iUX2kpL5e2QwpAdBYs0-13" value="&lt;div&gt;2 RCA -&amp;gt; Jack&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="-iUX2kpL5e2QwpAdBYs0-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-iUX2kpL5e2QwpAdBYs0-14" value="&lt;div&gt;volca drum&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="414" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUX2kpL5e2QwpAdBYs0-17" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.885;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-iUX2kpL5e2QwpAdBYs0-14" target="-iUX2kpL5e2QwpAdBYs0-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="560" as="sourcePoint" />
+            <mxPoint x="490" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-iUX2kpL5e2QwpAdBYs0-18" value="Jack -&amp;gt; 2 RCA" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="-iUX2kpL5e2QwpAdBYs0-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-44" y="-20" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
