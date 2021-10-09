@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T19:21:20.796Z" agent="5.0 (X11)" etag="SLyJ_IsLpCnLTxYbtnNx" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-09T19:23:00.134Z" agent="5.0 (X11)" etag="fe2BLLAKk7AZZ6_PgVYa" version="15.5.0" type="github">
   <diagram id="wUzewB1sdcUzTNdC75Po" name="Page-1">
     <mxGraphModel dx="942" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,8 +51,14 @@
         </mxCell>
         <mxCell id="-iUX2kpL5e2QwpAdBYs0-18" value="Jack -&amp;gt; 2 RCA" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="-iUX2kpL5e2QwpAdBYs0-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-44" y="-20" as="offset" />
+            <mxPoint y="-32" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-iUX2kpL5e2QwpAdBYs0-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="330" width="26" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUX2kpL5e2QwpAdBYs0-21" value="6 piles AA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="526" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
